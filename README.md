@@ -1,1 +1,2 @@
 #ReactJS Basics
+My first attempt at working with ReactJS. Going from setting up workspace with webpack, my first component right up to navigation and parameters. This is a side project I will be working on over my forth semester in college. 
